@@ -1,0 +1,21 @@
+h1{
+   text-align : center;
+   color : Red;
+}
+h4{
+    text-align : center;
+    color : blue;
+}
+h2{
+    text-align : center;
+    color : orange;
+}
+.Actor{
+    color : green;
+}
+.Drink{
+    color : purple;
+}
+body{
+  background-color : #E0FAF8;
+}
